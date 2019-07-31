@@ -1,6 +1,8 @@
 
 # AO Python Task
 
+[DEPRECATED]
+
 This library provides common hooks in python for AOs tasks system.
 
 - Create new projects/assets/data
